@@ -27,21 +27,52 @@ Este proyecto fue configurado siguiendo estos pasos:
 
 ## Proceso de Instalación
 
+## Comprobamos que esté instalado Laravel.  
 ![Comprobamos que esté instalado Laravel.](IMGIT/1.png)  
+
+## Creamos nuestro proyecto e instalamos Jetstream y Livewire.  
 ![Creamos nuestro proyecto e instalamos Jetstream y Livewire.](IMGIT/2.png)  
+
+## No agregamos una característica adicional y optamos por pruebas unitarias.  
 ![No agregamos una característica adicional y optamos por pruebas unitarias.](IMGIT/3.png)  
+
+## Proceso de instalación.  
 ![Proceso de instalación.](IMGIT/4.png)  
+
+## Elegimos el gestor de base de datos MySQL que vamos a utilizar.  
 ![Elegimos el gestor de base de datos MySQL que vamos a utilizar.](IMGIT/5.png)  
+
+## Se terminó de configurar nuestro proyecto.  
 ![Se terminó de configurar nuestro proyecto.](IMGIT/6.png)  
+
+## Configuramos el archivo .env con el nombre de base de datos enetheldb.  
 ![Configuramos el archivo .env con el nombre de base de datos enetheldb.](IMGIT/7.png)  
+
+## En phpMyAdmin creamos la base de datos con el nombre que elegimos: enetheldb.  
 ![En phpMyAdmin creamos la base de datos con el nombre que elegimos: enetheldb.](IMGIT/8.png)  
+
+## Hacemos la migración de nuestro proyecto a la base de datos.  
 ![Hacemos la migración de nuestro proyecto a la base de datos.](IMGIT/9.png)  
+
+## La migración se efectuó y vemos las nuevas tablas en la base de datos.  
 ![La migración se efectuó y vemos las nuevas tablas en la base de datos.](IMGIT/10.png)  
+
+## Ponemos nuestro nombre en la página principal de la aplicación.  
 ![Ponemos nuestro nombre en la página principal de la aplicación.](IMGIT/11.png)  
+
+## Registramos un usuario.  
 ![Registramos un usuario.](IMGIT/12.png)  
+
+## Se guardaron exitosamente los datos del registro en la base de datos.  
 ![Se guardaron exitosamente los datos del registro en la base de datos.](IMGIT/13.png)  
+
+## Iniciamos sesión con las credenciales del usuario registrado.  
 ![Iniciamos sesión con las credenciales del usuario registrado.](IMGIT/14.png)  
+
+## Iniciamos correctamente al dashboard de Jetstream.  
 ![Iniciamos correctamente al dashboard de Jetstream.](IMGIT/15.png)  
+
+## Vemos el perfil del usuario.  
 ![Vemos el perfil del usuario.](IMGIT/16.png)  
 
 ---
